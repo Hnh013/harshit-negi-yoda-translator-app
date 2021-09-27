@@ -1,4 +1,4 @@
-# Master Yoda Traqnslator App
+# Master Yoda Translator App
 A simple vanilla JS app to translate english language into master Yoda's language    
 The app is made in vanilla JS so there is no need to install the dependencies    
 Live App at :    
