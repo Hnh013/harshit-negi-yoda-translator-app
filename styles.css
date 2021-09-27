@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Recursive:wght@400;700&display=swap');
+
+:root {
+    --primary-color: rgb(242, 201, 76);
+  }
+  
+body {
+    font-family: 'Recursive', sans-serif;
+    margin: 0;
+    height: 100%;
+    background: url("https://images.unsplash.com/photo-1599002762948-19068b069803?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHlvZGF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+    background-size: cover;
+    opacity: 0.9;
+  }
+
+h1, h3 {
+      margin-top: 0;
+      margin-bottom: 0;
+}
+  
+textarea {
+    opacity: 0.8;
+    box-sizing: border-box;
+    display: block;
+    width: 60vw;
+    height: 20vh;
+    font-size: large;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.label-container {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 5px;
+}
+  
+.label-text {
+    font-weight: bolder;
+    padding: 0.5rem;
+}
+
+.output-text-area {
+    margin: auto;
+    width: 60vw;
+    height: 15vh;
+    border: 1px solid black;
+    opacity: 0.7;
+    background-color: white;
+    box-shadow: 5px 5px brown;
+}
+
+.btn-container {
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}  
+  
+.btn-translate {
+    font-size: large;
+    border: none;
+    background-color: white;
+    border-radius: 500px;
+    box-shadow: 5px 5px greenyellow;
+    font-weight: bolder;
+    border: 2px solid black;
+}
+
+  
+footer {
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--primary-color);
+    text-align: center;
+    opacity: 1;
+}
+
+nav {
+    background-color: var(--primary-color);
+    text-align: center;
+    padding: 0.5rem;
+    margin: auto;
+}
+  
+nav div {
+    padding: 0;
+    margin: auto;
+}
+
+.footer-div {
+    padding: 0 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.social-icon {
+    padding: 5px;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+  
