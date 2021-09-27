@@ -10,6 +10,6 @@ Steps to run the app at your local machine
 `git pull origin main`    
 3. Go to the file explorer and simply right click on the index.html file , and click on Open with Chrome. The app will open.    
 4. Alternative way is with Visual Studio Code , download the live server extension , and after taking clone and latest pull of the repo , right click on anywhere in index.html and click on run llive server . App will open automatically on default browser.    
-In case it shows name of directory , i.e. harshit-negi-banana-translator-app, just click on the name and app will open.   
+In case it shows name of directory , i.e. harshit-negi-yoda-translator-app, just click on the name and app will open.   
 Also I would love to know about your experience, please send your feedbacks, criticisms and suggestions regarding this app at my mail - techietypical@gmail.com    
 If you get a high score, do send me screenshot of your score at my mail - techietypical@gmail.com so I can update your name in the Leaderboards.
