@@ -1,7 +1,7 @@
 # Master Yoda Translator App
 A simple vanilla JS app to translate english language into master Yoda's language    
 The app is made in vanilla JS so there is no need to install the dependencies    
-Live App at : harshit-negi-yoda-translator-app-m1ktmflae-hnh013.vercel.app    
+Live App at : https://harshit-negi-yoda-translator-app-gi20k149c-hnh013.vercel.app/    
 Pre-requisites : A code editor   
 Steps to run the app at your local machine    
 1. Run the command on CLI/command prompt to clone the repo on your local machine in the directory of your choice    
